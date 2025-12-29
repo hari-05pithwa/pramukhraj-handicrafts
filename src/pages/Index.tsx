@@ -45,7 +45,7 @@ const featuredProducts = [
 const trustIndicators = [
   {
     icon: Award,
-    title: "40+ Years",
+    title: "18+ Years",
     description: "of master craftsmanship",
   },
   {
@@ -78,7 +78,7 @@ const Index = () => {
             <div className="order-2 lg:order-1">
               <div className="opacity-0 animate-fade-up">
                 <span className="text-caption uppercase tracking-widest text-muted-foreground mb-4 block">
-                  Established 1982 — Saharanpur, India
+                  Established 1982 — Memnagar, Ahmedabad
                 </span>
               </div>
               

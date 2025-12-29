@@ -63,10 +63,10 @@ export function Header() {
 
           {/* CTA & Mobile Menu Toggle */}
           <div className="flex items-center gap-4">
-            <a href="tel:+919876543210" className="hidden md:flex">
+            <a href="tel:+919879051109" className="hidden md:flex">
               <Button variant="outline" size="sm">
                 <Phone className="w-4 h-4" />
-                <span className="hidden xl:inline">+91 98765 43210</span>
+                <span className="hidden xl:inline">+91 98790 51109</span>
               </Button>
             </a>
 
@@ -102,7 +102,7 @@ export function Header() {
                   {link.name}
                 </Link>
               ))}
-              <a href="tel:+919876543210" className="mt-4">
+              <a href="tel:+919879051109" className="mt-4">
                 <Button variant="default" className="w-full">
                   <Phone className="w-4 h-4" />
                   Call Now
